@@ -1,0 +1,5 @@
+Steps to run:
+1. pip install numpy (Numpy is required)
+2. pip install matplotlib (required)
+3. Run file_name.py using any IDE 
+4. Command for running in windows cmd:  python file_name.py 
